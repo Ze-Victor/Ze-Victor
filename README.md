@@ -1,1 +1,5 @@
-# josevictor
+# Olá! Eu sou o José Victor
+
+💻 Atualmente eu trabalho com desenvolvimento web front-end...
+📚 Estudando ReactJS...
+
